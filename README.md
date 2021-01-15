@@ -2,8 +2,8 @@
 
 前缀 `Ctrl-o`
 
-1) 安装 ![oh-my-tmux](https://github.com/gpakosz/.tmux)
-2) 安装插件：详见 ![tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)
+1) 安装 [oh-my-tmux](https://github.com/gpakosz/.tmux)
+2) 安装插件：详见 [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)
 
 复制 `tmux-power.tmux` 文件到 `~/.tmux/plugins/tmux-power`文件夹。
 
